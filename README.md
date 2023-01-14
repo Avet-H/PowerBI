@@ -1,4 +1,4 @@
-# PowerBI_Portfolio
+ # PowerBI_Portfolio
 These are some example projects developed by Power BI Desctop 
 
 
@@ -6,7 +6,7 @@ These are some example projects developed by Power BI Desctop
 
 2. *NBA visuals*-Using some historical data from NBA I created the interesting vizual about shots and distances in 2010 - 2018 period.
 
-3.*Contoso_DAXExamples* - Data Analytics Expression is a powerful tool that can be used for more complex measures and calculated column. This project is developed using the "Contoso" sample data provided by microsoft and shows some of commonly used calculations with DAX
+3. *Contoso_DAXExamples* - Data Analytics Expression is a powerful tool that can be used for more complex measures and calculated column. This project is developed using the "Contoso" sample data provided by microsoft and shows some of commonly used calculations with DAX
 
 
 
